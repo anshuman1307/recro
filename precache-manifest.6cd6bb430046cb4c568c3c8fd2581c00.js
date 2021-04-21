@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07b889943b6b57bf541196a8a5ecbf8f",
+    "revision": "9588a038c23a74ac268861fdb136fdbf",
     "url": "/recro/index.html"
   },
   {
-    "revision": "c2013082b823372907b3",
+    "revision": "1a2988b32567a7051dca",
     "url": "/recro/static/css/main.8b6e1f30.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recro/static/js/2.f6f599a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2013082b823372907b3",
-    "url": "/recro/static/js/main.365fec40.chunk.js"
+    "revision": "1a2988b32567a7051dca",
+    "url": "/recro/static/js/main.af54498e.chunk.js"
   },
   {
     "revision": "c73a5f5e226e3e73efc9",
