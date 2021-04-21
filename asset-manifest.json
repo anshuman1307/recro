@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/recro/static/css/main.8b6e1f30.chunk.css",
-    "main.js": "/recro/static/js/main.bc6011f4.chunk.js",
-    "main.js.map": "/recro/static/js/main.bc6011f4.chunk.js.map",
+    "main.js": "/recro/static/js/main.365fec40.chunk.js",
+    "main.js.map": "/recro/static/js/main.365fec40.chunk.js.map",
     "runtime-main.js": "/recro/static/js/runtime-main.f58ce02f.js",
     "runtime-main.js.map": "/recro/static/js/runtime-main.f58ce02f.js.map",
     "static/js/2.f6f599a2.chunk.js": "/recro/static/js/2.f6f599a2.chunk.js",
     "static/js/2.f6f599a2.chunk.js.map": "/recro/static/js/2.f6f599a2.chunk.js.map",
     "index.html": "/recro/index.html",
-    "precache-manifest.f63a795af087bed5a1d195cdab5bd3f1.js": "/recro/precache-manifest.f63a795af087bed5a1d195cdab5bd3f1.js",
+    "precache-manifest.7f55b82d49fd1c8d53fefb082fa62188.js": "/recro/precache-manifest.7f55b82d49fd1c8d53fefb082fa62188.js",
     "service-worker.js": "/recro/service-worker.js",
     "static/css/main.8b6e1f30.chunk.css.map": "/recro/static/css/main.8b6e1f30.chunk.css.map",
     "static/js/2.f6f599a2.chunk.js.LICENSE.txt": "/recro/static/js/2.f6f599a2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f58ce02f.js",
     "static/js/2.f6f599a2.chunk.js",
     "static/css/main.8b6e1f30.chunk.css",
-    "static/js/main.bc6011f4.chunk.js"
+    "static/js/main.365fec40.chunk.js"
   ]
 }
